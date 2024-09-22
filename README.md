@@ -1,5 +1,4 @@
 # Thyroid-disease-prediction
-# Endocrine Disease Prediction
 
 ## Overview
 This project focuses on predicting endocrine diseases using machine learning models. The dataset consists of 3772 patients, and compare the performance of three machine learning algorithms combined with three different over-sampling techniques to improve classification accuracy.
